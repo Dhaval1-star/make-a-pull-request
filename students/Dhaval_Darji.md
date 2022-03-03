@@ -1,5 +1,5 @@
 # Dhaval Darji
 
-## 2st Year, BSC(IT)
+## 2nd Year, BSC(IT)
 
 ## c++, JavaScript
